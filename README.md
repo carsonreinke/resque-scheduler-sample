@@ -1,6 +1,7 @@
 == Sample resque-scheduler Rails setup
 
 Start by running:
+
 ```
 redis-server &
 bundle exec rails server &
