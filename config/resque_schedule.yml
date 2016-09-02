@@ -1,0 +1,3 @@
+"Static Job":
+  class: StaticJob
+  cron: "* * * * *"
